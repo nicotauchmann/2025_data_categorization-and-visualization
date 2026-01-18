@@ -1,4 +1,4 @@
-# Data Science - Categorization of sold products and visualization of discounts and sales
+# Categorization of sold products and visualization of discounts and sales
 ## Project Overview
 - Answering the question if discounts drive products sales and what discount strategy should be applied
 - Discounts are applied too broadly, customers are very sensitive to sale events
