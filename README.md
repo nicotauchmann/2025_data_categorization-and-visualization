@@ -1,8 +1,9 @@
 # Data Science - Categorization of sold products and visualization of discounts and sales
 ## Project Overview
-- answering the question if discounts drive products sales and what discount strategy should be applied
+- Answering the question if discounts drive products sales and what discount strategy should be applied
+- Discounts are applied too broadly, customers are very sensitive to sale events
 ## Dataset & Sources
-- Link to notebook: https://colab.research.google.com/drive/1z9qWQeI1tPsLyDO6PRg7-uoaiEgdm0Z_?usp=sharing
+- Files: Can be found in folder "data" in this repository
 - Source: Dataset of Online Retailer "Magist"
 - Size: 99,441 unique orders from 3,095 sellers
 - Timeframe: 2016-09-04 23:15:19 to	2018-10-17 19:30:18
