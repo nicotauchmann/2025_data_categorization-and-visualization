@@ -1,5 +1,3 @@
-# 2025_data_categorization-and-visualization
-
 # Data Science - Categorization of sold products and visualization of discounts and sales
 ## Project Overview
 - answering the question if discounts drive products sales and what discount strategy should be applied
@@ -10,11 +8,13 @@
 - Timeframe: 2016-09-04 23:15:19 to	2018-10-17 19:30:18
 - Key Features: CustomerID, SellerID, Quantity, UnitPrice, OrderDate, Expected Delivery, State
 ## Example Visualisations
-
+<img width="1355" height="759" alt="Screenshot 2025-12-01 132643" src="https://github.com/nicotauchmann/2025_data_categorization-and-visualization/blob/f2c62566ff0db496682934664e0ab8140a57c98c/visualization_examples/time_discounts.png"/>
+<img width="1355" height="759" alt="Screenshot 2025-12-01 132643" src="https://github.com/nicotauchmann/2025_data_categorization-and-visualization/blob/f2c62566ff0db496682934664e0ab8140a57c98c/visualization_examples/best%20selling%20categories.png" />
+<img width="1355" height="759" alt="Screenshot 2025-12-01 132643" src="https://github.com/nicotauchmann/2025_data_categorization-and-visualization/blob/f2c62566ff0db496682934664e0ab8140a57c98c/visualization_examples/Top_Revenue_by_Category_vs_Mean_Discount_Bars.png" />
 
 ## How to Use This Project
-- import the database files into your MySQL Workbench
-- run queries similar to the ones in the example folder
-- import custom tables into vizualization tool of choice (used in pictures above: Tableau)
+- download notebook file
+- run all code in notebook
+
 ## Contact
 nico.tauchmann@gmail.com
