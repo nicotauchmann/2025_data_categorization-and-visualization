@@ -15,6 +15,3 @@
 ## How to Use This Project
 - download notebook file
 - run all code in notebook
-
-## Contact
-nico.tauchmann@gmail.com
